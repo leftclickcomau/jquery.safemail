@@ -1,0 +1,40 @@
+{
+  "name": "jquery.safemail",
+  "version": "1.0.0",
+  "description": "Hides email links from spam bots.",
+  "main": "src/jquery.safemail.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp qa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leftclickcomau/jquery.safemail.git"
+  },
+  "keywords": [
+    "safemail",
+    "spam",
+    "antispam",
+    "jquery"
+  ],
+  "author": "Ben New <ben@leftclick.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leftclickcomau/jquery.safemail/issues"
+  },
+  "homepage": "https://github.com/leftclickcomau/jquery.safemail#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-mocha-phantomjs": "^0.10.1",
+    "gulp-uglify": "^1.5.1",
+    "jquery": "^2.1.4",
+    "jshint": "^2.8.0",
+    "mocha": "^2.3.4",
+    "requirejs": "^2.1.22"
+  }
+}
