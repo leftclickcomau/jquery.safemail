@@ -11,4 +11,6 @@ any new options or functionality.
 
 ## Issues
 
-Please use the github issue tracker to report any problems: https://github.com/leftclickcomau/jquery.safemail/issues
+Please use the github issue tracker to report any problems: 
+
+* https://github.com/leftclickcomau/jquery.safemail/issues
