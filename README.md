@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/leftclickcomau/jquery.safemail.svg?branch=master)](https://travis-ci.org/leftclickcomau/jquery.safemail)
+
 A simple "safemail" plugin for jQuery.
 
 ## Installation
