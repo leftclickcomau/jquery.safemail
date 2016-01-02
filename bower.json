@@ -1,0 +1,26 @@
+{
+  "name": "jquery.safemail",
+  "homepage": "https://github.com/leftclickcomau/jquery.safemail",
+  "description": "Hides email links from spam bots.",
+  "main": "src/jquery.safemail.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "safemail",
+    "spam",
+    "antispam",
+    "jquery"
+  ],
+  "authors": [
+    "Ben New <ben@leftclick.com.au>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
