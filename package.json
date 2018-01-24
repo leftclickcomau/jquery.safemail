@@ -1,6 +1,6 @@
 {
   "name": "jquery.safemail",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hides email links from spam bots.",
   "main": "src/jquery.safemail.js",
   "directories": {
